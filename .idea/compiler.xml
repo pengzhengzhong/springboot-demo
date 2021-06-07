@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springbootConfig" />
+        <module name="springbootZuul" />
+        <module name="springbootConsumerFeign" />
+        <module name="springbootConsumerRibbon" />
+        <module name="springbootService2" />
+        <module name="springbootEureka" />
+        <module name="springbootService1" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="springbootConfig" target="1.8" />
+      <module name="springbootConsumerFeign" target="1.8" />
+      <module name="springbootConsumerRibbon" target="1.8" />
+      <module name="springbootEureka" target="1.8" />
+      <module name="springbootMybatis" target="1.8" />
+      <module name="springbootService1" target="1.8" />
+      <module name="springbootService2" target="1.8" />
+      <module name="springbootZuul" target="1.8" />
+      <module name="springcloud_demo" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="springbootMybatis" options="-parameters" />
+      <module name="springbootZuul" options="-parameters" />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bee80f8a-d5c3-4dd9-bfd9-009d285dc1a5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1tNP0j2ULB1Rqyi4wYFv1peJdSH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="ExpandSpringBootSpringBootSettingsPanel" value="false" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.1112347" />
+    <property name="project.structure.side.proportion" value="0.23558897" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\springcloud_demo\springbootMybatis\src\main\java\sun\common\utils" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="sun.common.entity" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.EurekaApplication">
+    <configuration name="ConfigApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springbootConfig" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sun.ConsumerClientApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SHORTEN_COMMAND_LINE" value="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springbootEureka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sun.ConsumerClientApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SHORTEN_COMMAND_LINE" value="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FeignConsumerClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springbootConsumerFeign" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sun.ConsumerClientApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SHORTEN_COMMAND_LINE" value="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MybatisApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springbootMybatis" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sun.MybatisApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SHORTEN_COMMAND_LINE" value="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RibbonConsumerClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springbootConsumerRibbon" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sun.ConsumerClientApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SHORTEN_COMMAND_LINE" value="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Service1Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springbootService1" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sun.ConsumerClientApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SHORTEN_COMMAND_LINE" value="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Service2Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springbootService2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sun.ConsumerClientApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SHORTEN_COMMAND_LINE" value="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZuulApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springbootZuul" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sun.ConsumerClientApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SHORTEN_COMMAND_LINE" value="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.EurekaApplication" />
+      <item itemvalue="Spring Boot.Service1Application" />
+      <item itemvalue="Spring Boot.Service2Application" />
+      <item itemvalue="Spring Boot.ConfigApplication" />
+      <item itemvalue="Spring Boot.ZuulApplication" />
+      <item itemvalue="Spring Boot.RibbonConsumerClientApplication" />
+      <item itemvalue="Spring Boot.FeignConsumerClientApplication" />
+      <item itemvalue="Spring Boot.MybatisApplication" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bee80f8a-d5c3-4dd9-bfd9-009d285dc1a5" name="Default Changelist" comment="" />
+      <created>1622606352874</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622606352874</updated>
+      <workItem from="1622606354046" duration="5075000" />
+      <workItem from="1622612197811" duration="10434000" />
+      <workItem from="1622627366214" duration="2661000" />
+      <workItem from="1622681524299" duration="1964000" />
+      <workItem from="1622683826919" duration="772000" />
+      <workItem from="1622688151952" duration="3487000" />
+      <workItem from="1622699278877" duration="271000" />
+      <workItem from="1622699562655" duration="785000" />
+      <workItem from="1622700366957" duration="943000" />
+      <workItem from="1622701330761" duration="2572000" />
+      <workItem from="1622703937708" duration="753000" />
+      <workItem from="1622704713822" duration="774000" />
+      <workItem from="1622705505912" duration="9451000" />
+      <workItem from="1622768138118" duration="5992000" />
+      <workItem from="1622789567354" duration="35000" />
+      <workItem from="1623029296292" duration="2121000" />
+      <workItem from="1623031453216" duration="849000" />
+      <workItem from="1623032320560" duration="1645000" />
+      <workItem from="1623033992423" duration="254000" />
+      <workItem from="1623034266902" duration="320000" />
+      <workItem from="1623034603658" duration="199000" />
+      <workItem from="1623034815705" duration="81000" />
+      <workItem from="1623034987199" duration="93000" />
+      <workItem from="1623036079538" duration="875000" />
+      <workItem from="1623036976432" duration="732000" />
+      <workItem from="1623047207527" duration="559000" />
+      <workItem from="1623051924440" duration="1259000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
